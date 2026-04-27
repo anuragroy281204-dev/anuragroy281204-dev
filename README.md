@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[HealthRAG-IN]** — A grounded medical Q&A system over peer-reviewed literature and Indian public health resources, with a hallucination-evaluation harness
+- 🔭 Currently building **[HealthRAG-IN](https://github.com/anuragroy281204-dev/healthrag-in)** — A grounded medical Q&A system over peer-reviewed literature and Indian public health resources, with a hallucination-evaluation harness
 - 🌱 Currently learning **Machine Learning, Deep Learning, and modern Python frameworks**
 - 💡 I'm interested in **AI/ML, building useful tools, and turning ideas into working code**
 - 🎯 2026 goal: **Ship 5 meaningful projects and contribute to open source**
