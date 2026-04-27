@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[mindbloom_ai](https://github.com/anuragroy281204-dev/mindbloom_ai)** — exploring the intersection of AI and mental wellness
+- 🔭 Currently building **[HealthRAG-IN]** — exploring the intersection of AI and mental wellness
 - 🌱 Currently learning **Machine Learning, Deep Learning, and modern Python frameworks**
 - 💡 I'm interested in **AI/ML, building useful tools, and turning ideas into working code**
 - 🎯 2026 goal: **Ship 5 meaningful projects and contribute to open source**
