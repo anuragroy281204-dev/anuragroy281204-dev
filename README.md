@@ -65,6 +65,9 @@
 <p align="center">
   <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </p>
+<p align="center">
+  <img src="Pixel Run Away GIF by Xbox.gif" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anuragroy281204-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
