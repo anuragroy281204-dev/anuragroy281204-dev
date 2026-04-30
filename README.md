@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Anurag 👋</h1>
 <h3 align="center">Aspiring Developer | AI & Python Enthusiast | Always Learning</h3>
-
+<p align="center">
+  <img src="Pixel Art 8Bit GIF by pixel jeff.gif" width="100%" />
+</p>
 ---
 
 ### 🚀 About Me
