@@ -11,7 +11,7 @@
 - 🌱 Currently learning **Machine Learning, Deep Learning, and modern Python frameworks**
 - 💡 I'm interested in **AI/ML, building useful tools, and turning ideas into working code**
 - 🎯 2026 goal: **Ship 5 meaningful projects and contribute to open source**
-- 📫 Reach me at: **anuragroy281204@gmail.com**
+- 📫 Reach me at: **anuragroy281204@gmail.com** OR at: **royanurag281204@gmail.com**
 - ⚡ Fun fact: *I believe the best way to learn is to build, break, and rebuild*
 
 ---
